@@ -214,6 +214,7 @@ project04<br>
 ├─ js/                   # JavaScript 파일<br>
 ├─ scss/                 # SCSS 스타일 파일<br>
 │<br>
+├─ README.md<br>
 ├─ index.html            # 메인 페이지<br>
 ├─ sub1.html             # 서브 페이지<br>
 ├─ sub2.html<br>
@@ -225,8 +226,8 @@ project04<br>
 ├─ sub4.html<br>
 ├─ sub5.html<br>
 ├─ sub6.html<br>
-├─ sub6-2.html<br>
-└─ README.md<br>
+└─ sub6-2.html<br>
+
 
 - `images/` : 페이지 및 콘텐츠 유형별로 분리된 이미지 리소스(공통, 메인, 서브 페이지, 캐릭터별 이미지) 관리
 - `js/` : 헤더 공통 기능과 각 페이지별 UI 동작을 JavaScript 파일로 분리하여 관리
