@@ -14,7 +14,7 @@
   👉 [디자인 시안 페이지 바로가기](https://www.figma.com/design/SsP6DWrFjImVIl5autmaDN/%EC%97%90%EC%8A%A4%ED%8C%8C-%EB%8B%8C%ED%85%90%EB%8F%84%EB%A6%AC%EB%89%B4%EC%96%BC?node-id=0-1&t=1EGCoIr7S4DjklFw-1)
 
 - 🌐 **배포 링크**  
-  👉 [리뉴얼 홈페이지 바로가기]([(https://zhaeees.github.io/Nintendo-Renewal/)])
+  👉 [리뉴얼 홈페이지 바로가기]((https://zhaeees.github.io/Nintendo-Renewal/)
 
 - 🕹️ **기존 홈페이지**  
   👉 [기존 홈페이지 바로가기](https://www.nintendo.com/kr/)
