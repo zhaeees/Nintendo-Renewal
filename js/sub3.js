@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
   let BpTablet = 1025;
-  let BpMobile = 421;
+  let BpMobile = 441;
 
   function getAlignOffset() {
     if (window.innerWidth > BpTablet) return 0;
