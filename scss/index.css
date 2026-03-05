@@ -548,13 +548,11 @@ table {
   background: #f8f8f8;
   border-radius: 10px 0 0 10px;
 }
-.responsive-nav-container .r-nav-container-body .r-nav-tab-wrap .r-nav-tab-btn .r-nav-tab-btn-text {
-  color: #333333;
-}
 .responsive-nav-container .r-nav-container-body .r-nav-tab-wrap .r-nav-tab-btn p {
   font-family: "Kanit", sans-serif;
   font-size: 16px;
   font-weight: 500;
+  color: #333333;
 }
 .responsive-nav-container .r-nav-container-body .r-nav-tab-wrap .r-nav-tab-btn .r-nav-tab-btn-icon {
   width: 50px;
