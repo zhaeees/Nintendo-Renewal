@@ -914,7 +914,7 @@ table {
     display: flex;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .header {
     height: 45px;
     background: #E60012;
@@ -1157,7 +1157,7 @@ table {
     order: 3;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .footer {
     font-size: 18px;
   }
@@ -1266,7 +1266,7 @@ table {
   pointer-events: none;
   z-index: 5;
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn-img {
     width: 45px;
     height: 45px;
@@ -1299,7 +1299,7 @@ table {
     height: 62px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn button {
     width: 100px;
     height: 43px;
@@ -1510,7 +1510,7 @@ body {
     font-size: 32px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-faq-page-content .inner .sub6-title-wrap .sub6-title-ko {
     font-size: 24px;
   }
@@ -1525,7 +1525,7 @@ body {
     font-size: 40px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-faq-page-content .inner .sub6-title-wrap .sub6-title-en {
     font-size: 32px;
   }
@@ -1665,7 +1665,7 @@ body {
 .sub6-faq-page-content .inner .faq-more-btn button:hover::before {
   left: 0;
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-faq-page-content .inner .faq-more-btn button {
     width: 100px;
     height: 45px;
@@ -1721,7 +1721,7 @@ body {
     font-size: 32px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-switch2-page-content .inner .sub6-title-wrap .sub6-title-ko {
     font-size: 24px;
   }
@@ -1736,7 +1736,7 @@ body {
     font-size: 40px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-switch2-page-content .inner .sub6-title-wrap .sub6-title-en {
     font-size: 32px;
   }
@@ -2338,7 +2338,7 @@ body {
     font-size: 32px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-switch-page-content .sub6-switch-page-content-wrap .sub-title .ko {
     font-size: 24px;
   }
@@ -2353,7 +2353,7 @@ body {
     font-size: 40px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-switch-page-content .sub6-switch-page-content-wrap .sub-title .en {
     font-size: 32px;
   }
@@ -2462,7 +2462,7 @@ body {
 .sub6-switch-page-content .sub6-switch-page-content-wrap .switch-banner-box .switch-banner .switch-banner-desc .switch-banner-button:hover::before {
   left: 0;
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-switch-page-content .sub6-switch-page-content-wrap .switch-banner-box .switch-banner .switch-banner-desc .switch-banner-button {
     width: 100px;
     height: 45px;
@@ -2523,7 +2523,7 @@ body {
     font-size: 32px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-switch-page-content .sub6-switch-page-content-wrap .switch-page-content-help .sub-title .ko {
     font-size: 24px;
   }
@@ -2572,7 +2572,7 @@ body {
 .sub6-switch-page-content .sub6-switch-page-content-wrap .switch-page-content-help .switch-help-button-box .switch-help-button:hover::before {
   left: 0;
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub6-switch-page-content .sub6-switch-page-content-wrap .switch-page-content-help .switch-help-button-box .switch-help-button {
     width: 100px;
     height: 45px;

@@ -914,7 +914,7 @@ table {
     display: flex;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .header {
     height: 45px;
     background: #E60012;
@@ -1157,7 +1157,7 @@ table {
     order: 3;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .footer {
     font-size: 18px;
   }
@@ -1266,7 +1266,7 @@ table {
   pointer-events: none;
   z-index: 5;
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn-img {
     width: 45px;
     height: 45px;
@@ -1299,7 +1299,7 @@ table {
     height: 62px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn button {
     width: 100px;
     height: 43px;
@@ -1308,7 +1308,7 @@ table {
 }
 
 /* 메인 비주얼 */
-@media (max-width: 1024px) and (min-width: 420px) {
+@media (max-width: 1024px) and (min-width: 440px) {
   .main-visual {
     position: relative;
     height: 100vh;
@@ -1335,7 +1335,7 @@ table {
     animation: none;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .main-visual {
     position: relative;
     height: 700px;
@@ -1448,7 +1448,7 @@ table {
     bottom: 50px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-software {
     height: 510px;
     width: 100%;
@@ -1580,7 +1580,7 @@ table {
     background: url(../images/pikmin/sub-pikmin-series-overlay-icon.svg) no-repeat center/cover;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-series {
     padding: 70px 0;
   }
@@ -1635,7 +1635,7 @@ table {
     left: 0;
   }
 }
-@media (max-width: 420px) and (max-width: 420px) {
+@media (max-width: 440px) and (max-width: 440px) {
   .sub-series .sub-series-left-wrap .sub-series-btn {
     width: 100px;
     height: 45px;
@@ -1662,7 +1662,7 @@ table {
     left: 0;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-series .sub-series-right-wrap .sub-series-viewport {
     padding-left: 20px;
     padding-right: 20px;
@@ -1679,7 +1679,7 @@ table {
   }
 }
 /* 캐릭터 */
-@media (max-width: 1024px) and (min-width: 420px) {
+@media (max-width: 1024px) and (min-width: 440px) {
   .sub-character {
     height: 100%;
     padding: 100px 0;
@@ -1764,7 +1764,7 @@ table {
     transform: translate(-50%);
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-character {
     height: auto;
     padding: 70px 0 100px 0;
@@ -1888,7 +1888,7 @@ table {
     height: 50px;
   }
 }
-@media (max-width: 1024px) and (max-width: 420px) {
+@media (max-width: 1024px) and (max-width: 440px) {
   .sub-news-responsive-wrap .sub-section-title {
     display: flex;
     justify-content: center;
@@ -2024,7 +2024,7 @@ table {
     z-index: 5;
   }
 }
-@media (max-width: 1024px) and (max-width: 420px) {
+@media (max-width: 1024px) and (max-width: 440px) {
   .sub-news-responsive-wrap .sub-news-tablet .sub-news-card .more-btn {
     width: 100px;
     height: 45px;
@@ -2066,7 +2066,7 @@ table {
   }
 }
 /* 뉴스 모바일 */
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-news {
     display: none;
   }
@@ -2082,7 +2082,7 @@ table {
     height: 58px;
   }
 }
-@media (max-width: 420px) and (max-width: 1024px) {
+@media (max-width: 440px) and (max-width: 1024px) {
   .sub-news-responsive-wrap .sub-section-title {
     display: flex;
     justify-content: center;
@@ -2094,7 +2094,7 @@ table {
     height: 50px;
   }
 }
-@media (max-width: 420px) and (max-width: 420px) {
+@media (max-width: 440px) and (max-width: 440px) {
   .sub-news-responsive-wrap .sub-section-title {
     display: flex;
     justify-content: center;
@@ -2106,7 +2106,7 @@ table {
     height: 33px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-news-responsive-wrap .sub-news-tablet {
     width: 100%;
     display: flex;
@@ -2192,7 +2192,7 @@ table {
 }
 
 /* 다운로드박스 */
-@media (max-width: 1024px) and (min-width: 420px) {
+@media (max-width: 1024px) and (min-width: 440px) {
   .sub-download {
     padding: 70px 0 70px 0;
   }
@@ -2218,7 +2218,7 @@ table {
     width: 220px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-download {
     padding: 45px 0 45px 0;
   }
@@ -2306,7 +2306,7 @@ table {
     order: 3;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .footer {
     font-size: 18px;
   }

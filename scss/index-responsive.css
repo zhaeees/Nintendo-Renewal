@@ -914,7 +914,7 @@ table {
     display: flex;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .header {
     height: 45px;
     background: #E60012;
@@ -1157,7 +1157,7 @@ table {
     order: 3;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .footer {
     font-size: 18px;
   }
@@ -1266,7 +1266,7 @@ table {
   pointer-events: none;
   z-index: 5;
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn-img {
     width: 45px;
     height: 45px;
@@ -1299,7 +1299,7 @@ table {
     height: 62px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn button {
     width: 100px;
     height: 43px;
@@ -1477,7 +1477,7 @@ table {
     margin-top: 30px;
   }
 }
-@media (max-width: 1024px) and (max-width: 420px) {
+@media (max-width: 1024px) and (max-width: 440px) {
   .main-software .software-wrap .software-right .software-more {
     width: 100px;
     height: 45px;
@@ -1598,7 +1598,7 @@ table {
     /* active 이미지 */
   }
 }
-@media (max-width: 1024px) and (max-width: 420px) {
+@media (max-width: 1024px) and (max-width: 440px) {
   .character .character-content .character-swiper-wrap .character-swiper .swiper-wrapper .swiper-slide .character-text button {
     width: 100px;
     height: 45px;
@@ -1880,7 +1880,7 @@ table {
     background-image: url(../images/index/banner-tablet.png);
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   /* =========================
    메인비주얼
   ========================= */
@@ -2073,7 +2073,7 @@ table {
     margin-top: 30px;
   }
 }
-@media (max-width: 420px) and (max-width: 420px) {
+@media (max-width: 440px) and (max-width: 440px) {
   .main-software-mb .software-mb-wrap .software-more-mb {
     width: 100px;
     height: 45px;
@@ -2100,7 +2100,7 @@ table {
     left: 0;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   /* =========================
    캐릭터
    ========================= */
@@ -2297,7 +2297,7 @@ table {
     margin-top: 30px;
   }
 }
-@media (max-width: 420px) and (max-width: 420px) {
+@media (max-width: 440px) and (max-width: 440px) {
   .main-video-more {
     width: 100px;
     height: 45px;
@@ -2324,7 +2324,7 @@ table {
     left: 0;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   /* 메인 스토어 모바일 */
   .main-store {
     width: 100%;
@@ -2587,7 +2587,7 @@ table {
     order: 3;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .footer {
     font-size: 18px;
   }

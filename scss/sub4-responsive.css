@@ -914,7 +914,7 @@ table {
     display: flex;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .header {
     height: 45px;
     background: #E60012;
@@ -1157,7 +1157,7 @@ table {
     order: 3;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .footer {
     font-size: 18px;
   }
@@ -1266,7 +1266,7 @@ table {
   pointer-events: none;
   z-index: 5;
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn-img {
     width: 45px;
     height: 45px;
@@ -1299,7 +1299,7 @@ table {
     height: 62px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .top-btn button {
     width: 100px;
     height: 43px;
@@ -1365,7 +1365,7 @@ table {
     width: 120px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-page-main-visual .sub-page-mv-title-wrap {
     gap: 15px;
   }
@@ -1448,7 +1448,7 @@ table {
     font-size: 40px;
   }
 }
-@media (max-width: 1024px) and (max-width: 420px) {
+@media (max-width: 1024px) and (max-width: 440px) {
   .sub-whole-content-container .video-intro .video-new-game .video-new-game-wrap .sub-title .en {
     font-size: 32px;
   }
@@ -1587,7 +1587,7 @@ table {
   }
 }
 /* 영상 소개 - 모바일 */
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-whole-content-container {
     background: url(../images/sub4/new-game-bg-mb.png) no-repeat top center, #fff;
   }
@@ -1609,17 +1609,17 @@ table {
     font-family: "Kanit", sans-serif;
   }
 }
-@media (max-width: 420px) and (max-width: 1024px) {
+@media (max-width: 440px) and (max-width: 1024px) {
   .sub-whole-content-container .video-intro .video-new-game .video-new-game-wrap .sub-title .en {
     font-size: 40px;
   }
 }
-@media (max-width: 420px) and (max-width: 420px) {
+@media (max-width: 440px) and (max-width: 440px) {
   .sub-whole-content-container .video-intro .video-new-game .video-new-game-wrap .sub-title .en {
     font-size: 32px;
   }
 }
-@media (max-width: 420px) {
+@media (max-width: 440px) {
   .sub-whole-content-container .video-intro .video-new-game .video-new-game-wrap .sub-title .ko {
     font-family: "Suit", sans-serif;
     font-size: 18px;
